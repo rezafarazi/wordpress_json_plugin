@@ -1,0 +1,13 @@
+[15-Nov-2020 16:14:44 UTC] PHP Warning:  Error while sending QUERY packet. PID=3034 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[15-Nov-2020 16:14:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=3288 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[15-Nov-2020 16:16:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=3288 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[15-Nov-2020 16:16:03 UTC] PHP Warning:  Error while sending QUERY packet. PID=3034 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[15-Nov-2020 16:18:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=3288 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[15-Nov-2020 16:18:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=3034 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[23-Nov-2020 08:11:43 UTC] PHP Warning:  Error while sending QUERY packet. PID=28449 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[23-Nov-2020 08:11:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=28309 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[23-Nov-2020 08:11:48 UTC] PHP Warning:  Error while sending QUERY packet. PID=28340 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[23-Nov-2020 16:19:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=19814 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[23-Nov-2020 18:19:44 UTC] PHP Warning:  Error while sending QUERY packet. PID=7873 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[23-Nov-2020 20:19:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=28917 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
+[23-Nov-2020 20:20:44 UTC] PHP Warning:  Error while sending QUERY packet. PID=28917 in /home/sorappir/public_html/wp-includes/wp-db.php on line 2024
